@@ -15,56 +15,23 @@ I am a highly passionate, adaptable, and professional individual with expertise 
 </p>
 
 <br>
-<h3 align="left">🗣️💻 Languages and Tools:</h3>
+<h3 align="left">💻 Tech Stack:</h3>
 <p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin: 10px;"/> 
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin: 10px;"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="margin: 10px;"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin: 10px;"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin: 10px;"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin: 10px;"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin: 10px;"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" style="margin: 10px;"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin: 10px;"/> 
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="margin: 10px;"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="margin: 10px;"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.sass.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="python" width="40" height="40" style="margin: 10px;"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin: 10px;"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="spring" width="40" height="40" style="margin: 10px;"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin: 10px;"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin: 10px;"/> 
-  </a> 
+  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+<a href="https://www.w3schools.com/html/"><img align="left" alt="HTML" title="HTML" width="25px" height="25px" src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" /></a>
+<a href="https://www.w3schools.com/css/"><img align="left" alt="CSS" title="CSS" width="25px" height="25px" src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" /></a>
+<a href="https://sass-lang.com/"><img align="left" alt="Sass" title="Sass" width="25px" src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" /></a>
+<a href="https://getbootstrap.com/"><img align="left" alt="Bootstrap" title="Bootstrap" width="25px" src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" /></a>
+<a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="25px" src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" /></a>
+<a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="25px" src="https://github.com/get-icon/geticon/raw/master/icons/laravel.svg" /></a>
+<a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="25px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
+<a href="https://www.typescriptlang.org/"><img align="left" alt="TypeScript" title="TypeScript" width="25px" src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" /></a>
+<a href="https://tailwindcss.com/"><img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="25px" src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" /></a>
+<a href="https://nextjs.org/"><img align="left" alt="Next.js" title="Next.js" width="25px" src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" /></a>
+<a href="https://nodejs.org/"><img align="left" alt="Node.js" title="Node.js" width="25px" src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" /></a>
+<a href="https://git-scm.com/"><img align="left" alt="Git" title="Git" width="25px" src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" /></a>
+<a href="https://www.figma.com/"><img align="left" alt="Figma" title="Figma" width="25px" src="https://github.com/get-icon/geticon/raw/master/icons/figma.svg" /></a>
+
 </p>
 
 
