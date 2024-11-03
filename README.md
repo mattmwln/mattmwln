@@ -8,12 +8,6 @@
 I am a highly passionate, adaptable, and professional individual with expertise in frontend web development and currently delving into software engineering, machine learning, and data science. I also greatly enjoy teamwork, leadership, and fostering collaborative environments for innovative projects with others. Embracing new challenges and continuously striving for personal growth, especially in the field of frontend web development, is my ultimate goal. In addition to my personal goals, I also seek to increase my adaptability and resilience, thriving in dynamic environments to find opportunities to contribute to cutting-edge projects and collaborate with like-minded professionals.
 
 <br><br>
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mattmwln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joshua-nadeak-80057316a" height="30" width="40" /></a>
-<a href="https://instagram.com/mattmwln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patriusbasileuslutheri" height="30" width="40" /></a>
-</p>
-
 <br>
 <h3 align="left">💻 Tech Stack:</h3>
 <p align="left"> 
@@ -36,13 +30,16 @@ I am a highly passionate, adaptable, and professional individual with expertise 
 
 
 <br>
-<h3 align="left">📊 Github Stats:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mattmwln&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mattmwln" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mattmwln&show_icons=true&locale=en&theme=tokyonight" alt="mattmwln" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mattmwln&theme=tokyonight" alt="mattmwln" /></p>
-
+<!-- snake graph -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mattmwl/mattmwln/blob/main/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/mattmwln/mattmwln/blob/main/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/mattmwln/mattmwln/blob/main/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+</div>
+<br>
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mattmwln&radius=16&theme=react&area=true&order=5" height="auto" alt="activity-graph graph"  />
 
 <hr>Thanks for stopping by! Feel free to connect with me on social media or check out my projects. Happy coding! 🚀<hr/>
