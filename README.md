@@ -30,16 +30,5 @@ I am a highly passionate, adaptable, and professional individual with expertise 
 
 
 <br>
-<!-- snake graph -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mattmwl/mattmwln/blob/main/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/mattmwln/mattmwln/blob/main/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/mattmwln/mattmwln/blob/main/github-contribution-grid-snake.svg" alt="github-snake" />
-  </picture>
-</div>
-<br>
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mattmwln&radius=16&theme=react&area=true&order=5" height="auto" alt="activity-graph graph"  />
 
 <hr>Thanks for stopping by! Feel free to connect with me on social media or check out my projects. Happy coding! 🚀<hr/>
